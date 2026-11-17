@@ -1,9 +1,9 @@
 ---
 id: zombie
-title: Zombie White Paper
+title: Kilgore Trout, 1907–1981
 hide_title: true
 hide_table_of_contents: true
-description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results."
+description: "We are healthy only to the extent that our ideas are humane."
 ---
 
 # Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
@@ -16,9 +16,12 @@ description: "A white paper urging local government to prepare Isla Vista for a 
 
 ## 1. Executive Summary {#executive}
 
-The future of Isla Vista is bleak. Rent prices are astronomically high, often forcing multiple people into a single apartment. The parking can only be described as abysmal, with visitors often needing to circle multiple times to find a spot. Erosion is eating away at the cliffs, raising questions about the need for a coastal retreat. Most important, though, is our lack of preparation for the zombie apocalypse. If the undead were to pour onto our streets, we would be left defenseless.
-
-The Isla Vista Community Services District[^ivcsd] must immediately draft a formal zombie response plan. This white paper will address some issues that should be taken into consideration. We review the leading scientific explanation for zombie infection, propose four measures to protect Isla Vista, estimate what those measures will cost, and report the results of a survey showing the lack of preparation of local students.
+Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
+as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick.
+He was by then recognized as a great artist and scientist. The American Academy of Arts and
+Sciences caused a monument to be erected over his ashes. Carved in its face was a quotation
+from his last novel, his two-hundred-and-ninth novel, which was unfinished when he died. The
+monument looked like this:
 
 ![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
 
