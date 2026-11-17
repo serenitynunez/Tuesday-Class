@@ -50,7 +50,7 @@ const config = {
         title: '107T White Paper Series',
         logo: {
           alt: 'Series mark',
-          src: 'palm.svg',
+          src: 'img/palm.svg',
         },
         items: [
           {
